@@ -4,9 +4,9 @@
 
 ## 文件夹索引
 
-**course_material**：上课写的代码基本都会存在这里。前几节课有的代码我没有存，所以可能有空缺。
+**[course_material](/course_material/)**：上课写的代码基本都会存在这里。前几节课有的代码我没有存，所以可能有空缺。
 
-**homework**：作业的代码都会在这里 
+**[homework](/homework/)**：作业的代码都会在这里 
 
 ## 链接
 - [雪铮的写码课b站课程链接](https://space.bilibili.com/23849388/channel/collectiondetail?sid=487884)
