@@ -12,3 +12,7 @@
 - [雪铮的写码课b站课程链接](https://space.bilibili.com/23849388/channel/collectiondetail?sid=487884)
 - [Swift官网](https://www.swift.org)
 - [官方Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+
+## 提供反馈
+- 如果遇到问题可以建一个issue。
+- 如果你有修改建议可以建一个pull request。
