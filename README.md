@@ -4,11 +4,15 @@
 
 ## 文件夹索引
 
-**course_material**：上课写的代码基本都会存在这里。前几节课有的代码我没有存，所以可能有空缺。
+**[course_material](/course_material/)**：上课写的代码基本都会存在这里。前几节课有的代码我没有存，所以可能有空缺。
 
-**homework**：作业的代码都会在这里 
+**[homework](/homework/)**：作业的代码都会在这里 
 
 ## 链接
 - [雪铮的写码课b站课程链接](https://space.bilibili.com/23849388/channel/collectiondetail?sid=487884)
 - [Swift官网](https://www.swift.org)
 - [官方Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+
+## 提供反馈
+- 如果遇到问题可以建一个issue。
+- 如果你有修改建议可以建一个pull request。
