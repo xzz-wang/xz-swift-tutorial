@@ -16,6 +16,3 @@
 ## 提供反馈
 - 如果遇到问题可以建一个issue。
 - 如果你有修改建议可以建一个pull request。
-
-## 交流群
-<img src="/wechat_code.JPG" width="300">
